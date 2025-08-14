@@ -1,7 +1,9 @@
-﻿streamlit
+streamlit
 torch
+scikit-learn
 pandas
 numpy
-
-
+joblib
+requests
+plotly
 
